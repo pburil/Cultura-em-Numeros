@@ -40,20 +40,21 @@ Bases estruturadas no âmbito do CULTBR (API Cult.BR)
 Os dados passam por processos de extração, padronização e validação, visando garantir consistência e comparabilidade.
 
 # 📁 Estrutura do Repositório
+```text
 eixo1/
 ├── orcamento/
 │   ├── data/
-│   │   ├── processed/    
-│   │   └── raw/            # (Subpastas: estadual, federal, municipal)
-│   ├── documentacao/       # (Notas Metodológicas)
-│   └── scripts/            # (Subpastas: estadual, federal, municipal)
+│   │   ├── processed/
+│   │   └── raw/  # (Subpastas: estadual, federal, municipal)
+│   ├── documentacao/ # (Notas metodológicas)
+│   └── scripts/ #Subpastas: estadual, federal, municipal)
 ├── gestao&participacao/
 │   ├── data/
-│   │   ├── processed/   
+│   │   ├── processed/
 │   │   └── raw/
 │   ├── documentacao/
 │   └── scripts/
-├── README.md
+└── README.md
 
 # ⚙️ Metodologia
 
