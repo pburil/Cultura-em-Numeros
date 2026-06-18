@@ -48,7 +48,7 @@ eixo1/
 │   │   └── raw/  # (Subpastas: estadual, federal, municipal)
 │   ├── documentacao/ # (Notas metodológicas)
 │   └── scripts/ #Subpastas: estadual, federal, municipal)
-├── gestao&participacao/
+├── gestao&participacao/ (WIP 🚧)
 │   ├── data/
 │   │   ├── processed/
 │   │   └── raw/
